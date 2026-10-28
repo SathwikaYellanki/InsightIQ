@@ -1,0 +1,25 @@
+.venv/
+__pycache__/
+*.pyc
+sales.db
+.env
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Local databases and temporary files
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
